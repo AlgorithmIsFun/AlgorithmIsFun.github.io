@@ -4,7 +4,7 @@
 		<title>Abdullah's Personal Website</title>
 	</head>
 	<style>
-		img{
+		img {
 			width: 20px;
 			length: 20px;
 		}
