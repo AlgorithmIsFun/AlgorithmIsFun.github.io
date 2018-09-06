@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/AlgorithmIsFun/AlgorithmIsFun.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlgorithmIsFun/AlgorithmIsFun.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Abdullah's Personal Website</title>
+	</head>
+	<style>
+		img{
+			width: 20px;
+			length: 20px;
+			}
+	</style>
+<body>
+	<div>Contact Me at <a href = "mailto:abdullah61599@gmail.com"><img src="https://vignette.wikia.nocookie.net/joke-battles/images/f/fe/Mail.png/revision/latest?cb=20161130125750"></a>, <a href = "https://github.com/AlgorithmIsFun"><img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png"></a>, <a href = "https://www.facebook.com/profile.php?id=100006869763359"><img src="https://image.freepik.com/free-icon/facebook-logo_318-49940.jpg"></a> or Phone Number: 647-247 7874. Check out my <a href="C:\Users\khan6\Desktop\AK_Resume.docx">Resume</a></div>
+	<h1>About Me</h1>
+	<p>Hi, this is Abdullah. I am a Second Year University of Toronto Student studying Computer Science and Business. My current CGPA is 3.86. Some of my hobbies is coding, chess and swimming. My favorite programming langauge is Python. I am passionate about learning different languages, libaries, etc.</p>
+	<h1>Tech Skills</h1>
+	<ul>
+		<li>Python
+		<li>Java
+		<li>JavaScript (with JQuery)
+		<li>HTML/CSS
+		<li>Microsoft Office
+		<li>SQL
+	</ul>
+	<h1>Personal Projects</h1>
+	<p>Number Theory: Practice where I programmed number theory algorithms (including GCD, division algorithm, Prime Factorization, Fundamental Theorm of Arithmitic, LCM, etc).</p>
+	<p>Crypto: A simple crypto program that applies arithmitic on the ASCII values of a message to create a hidden message. It also decodes the message.</p>
+	<p>Excel-to-database: Takes a excel spreedsheet and creates a database file containing the heading and items. Makes us of xlrd, sqlite3 and tkinter libraries. Also, requires to code part of a database.</p>
+	<p>DOCX Reading: Allows user to select several word documents and return the number of occurances of a certain word(s).</p>
+	<h1>Relevant Courses Completed</h1>
+	<ul>
+		<li>CSC108: Intro to COMP Programming
+		<li>CSC148: Intro to COMP Science
+		<li>MAT102: Intro to Math Proofs
+		<li>MGM101: Into to Business
+		<li>ECO100: Economics
+	</ul>
+	<p>If you would lke to see my transcript, I can send you an email attachment if needed</p>
+	<h1>Additional Experience</h1>
+	<p>FSG Leader: Assisting students with learning and understanding that run on a peer-to-peer learning model. Leaders are students who have an outstanding academic standing</p>
+	<p>Hack The North: Participated in Waterloo's Hackathon and developed teamwork and software design experience</p>
+	<p>MCSSS: Participated in the math and Computer Science Society</p>
+</body>
+</html>
