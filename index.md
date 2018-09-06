@@ -7,7 +7,7 @@
 		img{
 			width: 20px;
 			length: 20px;
-			}
+		}
 	</style>
 <body>
 	<div>Contact Me at <a href = "mailto:abdullah61599@gmail.com"><img src="https://vignette.wikia.nocookie.net/joke-battles/images/f/fe/Mail.png/revision/latest?cb=20161130125750"></a>, <a href = "https://github.com/AlgorithmIsFun"><img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png"></a>, <a href = "https://www.facebook.com/profile.php?id=100006869763359"><img src="https://image.freepik.com/free-icon/facebook-logo_318-49940.jpg"></a> or Phone Number: 647-247 7874. Check out my <a href="C:\Users\khan6\Desktop\AK_Resume.docx">Resume</a></div>
