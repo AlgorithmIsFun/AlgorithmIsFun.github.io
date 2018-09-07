@@ -4,10 +4,12 @@ img {
 	length: 20px;
 }
 .taskbar {
+	display: block;
+   	width: 60px;
+}
+.taskbar_items {
 	position: fixed
 	list-style-type: none;
     	margin: 0;
     	padding: 0;
-	display: block;
-   	width: 60px;
 }
