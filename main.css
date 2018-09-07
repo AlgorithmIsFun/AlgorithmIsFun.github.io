@@ -7,6 +7,7 @@ img {
   	width: 100%; /* Full-width */
     	background-color: #555; /* Dark-grey background */
     	overflow: auto; /* Overflow due to float */
+	position: fixed;
 }
 #taskbar_items a {
     	float: left; /* Float links side by side */
