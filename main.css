@@ -4,12 +4,6 @@ img {
 	length: 20px;
 }
 #taskbar_items {
-  	width: 50%; /* Full-width */
-	height: 10px;
-    	background-color: #555; /* Dark-grey background */
-	color: rgb(0,128,0);
-}
-#taskbar_items {
     background-color: #333;
     overflow: hidden;
 }
