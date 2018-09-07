@@ -21,3 +21,6 @@ img {
 #taskbar_items a:hover {
 	background-color: #000;
 }
+.taskbar {
+	font-size: 15px;
+}
