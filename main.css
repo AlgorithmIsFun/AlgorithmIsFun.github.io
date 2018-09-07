@@ -6,7 +6,6 @@ img {
 #taskbar_items {
   	width: 100%; /* Full-width */
     	background-color: #555; /* Dark-grey background */
-    	overflow: auto; /* Overflow due to float */
 	position: sticky;
 }
 #taskbar_items a {
@@ -16,7 +15,7 @@ img {
     	padding: 12px 0; /* Some top and bottom padding */
     	transition: all 0.3s ease; /* Add transition for hover effects */
     	color: white; /* White text color */
-    	font-size: 36px; /* Increased font size */
+    	font-size: 15px; /* Increased font size */
 }
 #taskbar_items a:hover {
 	background-color: #000;
