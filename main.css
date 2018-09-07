@@ -4,7 +4,7 @@ img {
 	length: 20px;
 }
 #taskbar_items {
-  	width: 50%; /* Full-width */
+  	width: 20%; /* Full-width */
     	background-color: #555; /* Dark-grey background */
 	position: sticky;
 }
