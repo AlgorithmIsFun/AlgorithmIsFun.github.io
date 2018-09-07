@@ -4,7 +4,8 @@ img {
 	length: 20px;
 }
 #taskbar_items {
-  	width: 20%; /* Full-width */
+  	width: 50%; /* Full-width */
+	height: 10px;
     	background-color: #555; /* Dark-grey background */
 	position: sticky;
 }
@@ -14,10 +15,4 @@ img {
     	width: 15%; /* Equal width (5 icons with 20% width each = 100%) */
     	transition: all 0.3s ease; /* Add transition for hover effects */
     	color: white; /* White text color */
-}
-#taskbar_items a:hover {
-	background-color: #000;
-}
-a {
-	font-size: 15px;
 }
