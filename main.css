@@ -7,5 +7,6 @@ img {
   	width: 50%; /* Full-width */
 	height: 10px;
     	background-color: #555; /* Dark-grey background */
+	color: #000;
 	position: sticky;
 }
