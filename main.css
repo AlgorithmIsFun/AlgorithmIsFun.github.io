@@ -7,7 +7,7 @@ img {
 	display: block;
    	width: 60px;
 }
-.taskbar_items {
+#taskbar_items {
 	position: fixed
 	list-style-type: none;
     	margin: 0;
