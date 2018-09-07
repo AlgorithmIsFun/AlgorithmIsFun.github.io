@@ -6,7 +6,7 @@ img {
 #taskbar_items {
     background-color: #333;
     overflow: hidden;
-    position: sticky;
+    position: fixed;
 }
 
 /* Style the links inside the navigation bar */
